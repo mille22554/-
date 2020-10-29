@@ -16,5 +16,12 @@ namespace WP_2020_01_HW02_3A713135
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            string a= "抽過的卡:\n";
+            label1.Text = a;
+            this.Text = "抽卡";
+        }
     }
 }
