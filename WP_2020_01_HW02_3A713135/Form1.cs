@@ -21,6 +21,7 @@ namespace WP_2020_01_HW02_3A713135
         {
             string a= "抽過的卡:\n";
             label1.Text = a;
+            label2.Text = "作者:Moro";
             this.Text = "抽卡";
         }
     }
