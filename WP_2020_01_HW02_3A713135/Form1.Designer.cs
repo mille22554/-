@@ -38,9 +38,11 @@
             // 
             // pictureBox1
             // 
+            this.pictureBox1.Image = global::WP_2020_01_HW02_3A713135.Properties.Resources._52_1;
             this.pictureBox1.Location = new System.Drawing.Point(537, 25);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(251, 332);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 

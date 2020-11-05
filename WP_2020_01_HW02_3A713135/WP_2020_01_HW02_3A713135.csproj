@@ -64,6 +64,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -80,6 +81,162 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="res\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\1-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\2-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\3-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\4-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\5-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\6-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\7-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\8-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\9-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\10-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\11-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\12-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\13-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\14-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\15-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\16-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\17-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\18-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\19-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\20-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\21-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\22-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\23-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\24-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\25-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\26-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\27-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\28-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\29-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\30-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\31-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\32-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\33-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\34-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\35-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\36-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\37-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\38-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\39-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\40-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\41-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\42-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\43-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\44-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\45-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\46-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\47-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\48-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\49-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\50-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\51-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\作業2圖檔\52-1.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
