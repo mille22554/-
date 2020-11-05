@@ -73,6 +73,16 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
+        internal static System.Drawing.Bitmap _1_11 {
+            get {
+                object obj = ResourceManager.GetObject("1-11", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+        /// </summary>
         internal static System.Drawing.Bitmap _10_1 {
             get {
                 object obj = ResourceManager.GetObject("10-1", resourceCulture);

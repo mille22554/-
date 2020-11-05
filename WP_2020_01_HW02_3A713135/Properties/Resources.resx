@@ -118,92 +118,26 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="1-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\1-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="2-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\2-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="3-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\3-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="4-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\4-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="46-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\46-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="5-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\作業2圖檔\5-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="6-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\6-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="7-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\7-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="8-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\作業2圖檔\8-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="39-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\39-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="9-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\作業2圖檔\9-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="10-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\10-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="11-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\11-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="12-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\12-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="13-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\13-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="14-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\14-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="15-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\15-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="16-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\16-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="17-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\17-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="18-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\18-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="19-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\19-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="20-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\20-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="21-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\21-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="22-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\作業2圖檔\22-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="23-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\23-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="24-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\24-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="25-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\25-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="26-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\26-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="27-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\27-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="28-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\28-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="29-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\29-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="20-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\20-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="30-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\作業2圖檔\30-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -211,67 +145,136 @@
   <data name="31-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\作業2圖檔\31-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="32-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\32-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="33-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\33-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="34-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\34-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="35-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\35-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="36-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\36-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="11-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\11-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="37-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\作業2圖檔\37-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="38-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\38-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="39-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\39-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="40-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\40-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="41-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\41-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="42-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\42-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="43-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\43-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="44-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\44-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="45-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\45-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="46-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\46-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="47-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\47-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="48-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\48-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="49-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\49-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="50-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\作業2圖檔\50-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="25-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\25-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="51-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\作業2圖檔\51-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="41-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\41-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\2-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="44-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\44-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="16-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\16-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="38-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\38-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="18-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\18-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="47-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\47-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="33-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\33-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="21-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\21-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\3-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="6-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\6-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="28-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\28-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="12-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\12-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="24-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\24-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="48-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\48-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="34-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\34-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="14-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\14-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="40-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\40-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="43-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\43-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="17-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\17-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="19-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\19-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="7-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\7-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="27-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\27-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="4-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\4-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="32-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\32-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="23-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\23-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="42-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\42-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\1-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="52-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\作業2圖檔\52-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="26-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\26-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="10-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\10-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="13-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\13-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="36-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\36-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="35-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\35-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="50-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\50-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="29-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\29-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="15-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\15-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="49-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\49-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="45-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\45-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1-11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\作業2圖檔\1-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
